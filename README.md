@@ -1,30 +1,41 @@
+# Portfólio — João Pedro Pimenta
 
-# Portfólio Pimenta
+Meu portfólio pessoal, feito com **React, Vite e Tailwind CSS**, para apresentar minha trajetória acadêmica e profissional em **Inteligência Artificial, Backend e Processamento de Linguagem Natural**.
 
-🚀 Deploy: [Acesse aqui](https://portifolio-lowx27sxl-pimenta15s-projects.vercel.app)
+🚀 **No ar:** [portifolio-lowx27sxl-pimenta15s-projects.vercel.app](https://portifolio-lowx27sxl-pimenta15s-projects.vercel.app)
 
-## Sobre o projeto
+![Página inicial](docs/preview.png)
 
-Este é o meu portfólio pessoal, desenvolvido para apresentar minha trajetória acadêmica e profissional, bem como meus conhecimentos em **Inteligência Artificial, Backend e Processamento de Linguagem Natural**.
+## Demonstração
 
-O portfólio atualmente conta com as seções de **Apresentação, Trajetória, Contato** e será expandido em breve.
+![Navegando pelo portfólio](docs/demo.gif)
 
-## Status do projeto
+## Seções
 
-🔧 **Em produção**: o site já está no ar, mas novas funcionalidades e melhorias estão planejadas.
+- **Home:** apresentação e links para GitHub, LinkedIn e e-mail
+- **Sobre**
+- **Habilidades**
+- **Projetos**
+- **Experiência**
+- **Trajetória**
+- **Contato**
 
-Próximas adições:
+## Como executar localmente
 
-* 📂 Seção de **Projetos**
-* 📜 Seção de **Certificados**
+```bash
+npm install
+npm run dev       # servidor de desenvolvimento em http://localhost:5173
+npm run build     # build de produção em dist/
+```
 
-## Tecnologias e frameworks utilizados
+## Tecnologias
 
-* ⚡ [Vite](https://vitejs.dev/) — Build tool para React
-* ⚛️ [React](https://react.dev/) — Biblioteca para construção da interface
-* 🎨 [Tailwind CSS](https://tailwindcss.com/) — Estilização rápida e responsiva
-* 🎭 [Lucide React](https://lucide.dev/) — Ícones modernos e leves
+- ⚡ [Vite](https://vitejs.dev/): build e servidor de desenvolvimento
+- ⚛️ [React 19](https://react.dev/): interface
+- 🎨 [Tailwind CSS](https://tailwindcss.com/): estilização responsiva
+- 🎭 [Lucide React](https://lucide.dev/): ícones
+- ▲ [Vercel](https://vercel.com/): hospedagem
 
 ---
 
-✍️ Desenvolvido por **João Pedro Pimenta**
+Desenvolvido por [João Pedro Pimenta](https://www.linkedin.com/in/joao-pedro-pimenta/).
